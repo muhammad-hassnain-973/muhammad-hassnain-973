@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=180&section=header&text=Muhammad%20Hassnain&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20Intelligent%20Systems&descSize=15&descAlignY=62&animation=fadeIn&fontAlignX=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=180&section=header&text=Muhammad%20Hassnain&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=%20%2F%20Machine Learning%20Engineer%20%E2%80%94%20Building%20Intelligent%20Systems&descSize=15&descAlignY=62&animation=fadeIn&fontAlignX=50" />
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 ### About
 
-I design and build AI-powered systems — from data pipelines and ML models to full-stack interfaces that make those models accessible. My work spans computer vision, agentic AI, and backend APIs, with a focus on practical, deployable solutions.
+I design and build AI-powered systems — from data pipelines and ML models to full-stack interfaces that make those models accessible. My work spans,Machine Learning systems, computer vision, agentic AI, and backend APIs, with a focus on practical, deployable solutions.
 
 Currently leading development of **DeepGuard**, a deepfake detection platform using Vision Transformers with Grad-CAM explainability — targeting IEEE publication. I approach every project with production intent: clean architecture, documented code, and real-world applicability.
 
@@ -60,7 +60,7 @@ Currently leading development of **DeepGuard**, a deepfake detection platform us
       <td><strong>BazaarAI</strong></td>
       <td>Agentic sales analyst for small businesses — natural language queries over sales data, bilingual (English / Roman Urdu), FAISS retrieval, Plotly dashboards</td>
       <td><code>Streamlit</code> <code>Groq LLaMA</code> <code>FAISS</code></td>
-      <td><a href="https://github.com/muhammad-hassnain-973">View →</a></td>
+      <td><a href="https://github.com/muhammad-hassnain-973/bazar_ai">View →</a></td>
     </tr>
     <tr>
       <td><strong>Kaggle Notebooks</strong></td>
@@ -137,7 +137,7 @@ Kaggle Competitions          ████████░░░░   Active
 
 <div align="center">
 
-**Open to internships, research collaborations, and AI/ML projects**
+**Open to internships, Research collaborations, and AI/ML projects**
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn)](https://www.linkedin.com/in/muhammadhassnain973/)
 &nbsp;
