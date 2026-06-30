@@ -111,7 +111,7 @@ Currently leading development of **DeepGuard**, a deepfake detection platform us
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammad-hassnain-973&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C9FDB&icon_color=7C9FDB&text_color=c9d1d9&count_private=true&hide=issues" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammad-hassnain-973&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C9FDB&icon_color=7C9FDB&text_color=c9d1d9&hide=issues" />
 &nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hassnain-973&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C9FDB&text_color=c9d1d9&langs_count=5" />
 
